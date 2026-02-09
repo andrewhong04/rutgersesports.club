@@ -69,15 +69,7 @@ export default function Footer() {
         </div>
       </div>
       <div className={styles['footer-end']}>
-        Maintained by the{' '}
-        <Link
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://github.com/rutgersesports/rutgersesports.club/graphs/contributors"
-        >
-          Rutgers Esports Website Team
-        </Link>
-        , created by{' '}
+        Created by{' '}
         <Link target="_blank" rel="noopener noreferrer" href="https://go.rutgers.edu/andrewhong">
           Andrew Hong
         </Link>
